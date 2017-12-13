@@ -5,6 +5,3 @@ db.json
 node_modules/
 public/
 .deploy*/
-blog/themes/hiker/
-blog/themes/hipaper/
-blog/themes/magnetic/
