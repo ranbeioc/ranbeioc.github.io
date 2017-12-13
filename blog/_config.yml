@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Blog - Skyfire
-subtitle:
-description: RB's blog
-author: Skyfire
-language: zh-CN
+title: 我的精神家园
+subtitle: 我思故我在
+description: 世人皆知美之为美
+author: 赤子墨
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://ranbeis.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -28,7 +28,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :year-:month-:day-:title.md
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
@@ -77,4 +77,5 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/ranbeioc/blog.git
