@@ -14,16 +14,16 @@ body {
   // 也可以同时定义背景色
   // background: #ddd 
   // 透明度
-    opacity: 0.9;
-    z-index: 100;
+    //opacity: 0.9;
+    //z-index: 10;
 }
 // sidebar侧边工具栏样式属性
 .sidebar{
     // 动画过渡时间
 	//transition-duration: 0.4s;
     // 透明度
-	opacity: 0.9;
-    z-index: 100;
+	//opacity: 0.9;
+    //z-index: 10;
 }
 
 .site-brand-container, .sidebar-inner{
@@ -43,12 +43,22 @@ body {
     //box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12);
     //padding: 40px;
     background-color: #111;
-    opacity: 0.95!important
-    z-index: 100;
+    //opacity: 0.95!important
+    //z-index: 10;
+}
+
+.search-active {
+    //z-index: 14000
+    //position: fixed;
+}
+
+.search-popup {
+    //z-index: 15000
+    //position: absolute;
 }
 
 img{
-    opacity: 0.95!important;
+    opacity: 1!important;
 }
 
 img.photo{
@@ -86,7 +96,7 @@ img.photo{
 .border:before {
     content: ' ';
     display: block;
-    padding-bottom: 140%;
+    padding: 0 0 140% 0;
 }
 .frame {
     left: 3%;
@@ -112,4 +122,10 @@ img.photo{
     margin-bottom: 0px!important;
     background-size: cover;
     background-position: center center;
+}
+
+blockquote {
+    border-left: 4px solid #7285b7!important;
+    color: #fff!important;
+    background-color: #000f22!important;
 }

@@ -180,7 +180,7 @@ site_state: true
 social:
   GitHub: https://github.com/ranbeioc || github
   Teams: https://github.com/ranbeis || github-alt
-  E-Mail: mailto:admin@ranbeis.com || envelope
+  Telegram: https://t.me/ranbeis || telegram
   Slack: https://ranbei.slack.com || slack
   Twitter: https://twitter.com/ranbeis || twitter
   Facebook: https://www.facebook.com/ranbeis || facebook
@@ -368,7 +368,7 @@ codeblock:
   copy_button:
     enable: true
     # Show text copy result.
-    show_result: false
+    show_result: true
     # Available values: default | flat | mac
     style: mac
 
@@ -561,7 +561,7 @@ quicklink:
 
   # For more flexibility you can add some patterns (RegExp, Function, or Array) to ignores.
   # See: https://github.com/GoogleChromeLabs/quicklink#custom-ignore-patterns
-  ignores:
+  ignores: 
 
 
 # ---------------------------------------------------------------
@@ -605,15 +605,15 @@ disqusjs:
   # Leave api empty if you are able to connect to Disqus API. Otherwise you need a reverse proxy for it.
   # For example:
   # api: https://disqus.skk.moe/disqus/
-  api:
+  api: 
   apikey: # Register new application from https://disqus.com/api/applications/
   shortname: # See: https://disqus.com/admin/settings/general/
 
 # Changyan
-changyan:
+changyan: 
   enable: false
-  appid:
-  appkey:
+  appid: 
+  appkey: 
   #post_meta_order: 0
 
 # Valine
@@ -679,7 +679,7 @@ add_this_id: ra-5979cd06ea297294
 
 # Google Analytics
 google_analytics:
-  tracking_id: # <app_id>
+  tracking_id: UA-21591146-1 # <app_id> G-238161168
   # By default, NexT will load an external gtag.js script on your site.
   # If you only need the pageview feature, set the following option to true to get a better performance.
   only_pageview: false
@@ -691,7 +691,7 @@ baidu_analytics: f0a06e5a28802bd63fa6dc145e83b97b
 growingio_analytics: # <project_id>
 
 # CNZZ count
-cnzz_siteid:
+cnzz_siteid: 
 
 # Show number of visitors of each article.
 # You can visit https://leancloud.cn to get AppID and AppKey.
@@ -714,8 +714,8 @@ leancloud_visitors:
 firestore:
   enable: false
   collection: articles # Required, a string collection name to access firestore database
-  apiKey: # Required
-  projectId: # Required
+  apiKey: AIzaSyCMhoBI_KIOuiIRec8w86CLIH9Tv-3JiOI # Required
+  projectId: ranbeis # Required
 
 # Show Views / Visitors of the website / page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi
@@ -753,7 +753,7 @@ local_search:
   # If manual, trigger search by pressing enter key or search button.
   trigger: auto
   # Show top n results per article, show all results by setting to -1
-  top_n_per_article: 1
+  top_n_per_article: -1
   # Unescape html strings to the readable one.
   unescape: false
   # Preload the search data when the page loads.
@@ -816,7 +816,7 @@ tabs:
 pdf:
   enable: true
   # Default height
-  height: 500px
+  height: 1000px
 
 # Mermaid tag
 mermaid:
@@ -914,7 +914,7 @@ vendors:
 
   # Internal version: 0.2.8
   # pjax: //cdn.jsdelivr.net/gh/theme-next/theme-next-pjax@0/pjax.min.js
-  pjax:
+  pjax: //cdn.jsdelivr.net/gh/theme-next/theme-next-pjax@0/pjax.min.js
 
   # FancyBox
   # jquery: //cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js
