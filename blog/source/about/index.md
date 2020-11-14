@@ -2,7 +2,16 @@
 title: 关于
 date: 2017-07-27 12:52:22
 ---
-<blockquote class="blockquote-center">我爱大自然，其次就是艺术；我双手烤着生命之火取暖；火萎了，我也准备走了。</blockquote>
+
+<img class="image" style="width:100%;" src="ranbei_photo_1.jpg" alt="赤子墨-ranbeis" />
+
+<blockquote class="blockquote-center">
+我爱大自然，其次就是艺术<br/>
+我双手烤着生命之火取暖<br/>
+火萎了，我也准备走了<br/>
+我不能选择怎么生，怎么死<br/>
+我可以决定怎么爱，怎么活
+</blockquote>
 
 ## 一
 
