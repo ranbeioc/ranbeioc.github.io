@@ -1,3 +1,4 @@
+https://ranbeis.com/2023/02/20/page/
 https://ranbeis.com/2022/07/18/page/
 https://ranbeis.com/2022/06/29/page/
 https://ranbeis.com/about/
@@ -198,6 +199,11 @@ https://ranbeis.com/tags/%E5%8C%BB%E7%94%9F/
 https://ranbeis.com/tags/%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E/
 https://ranbeis.com/tags/%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA/
 https://ranbeis.com/tags/covid-19/
+https://ranbeis.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/
+https://ranbeis.com/tags/Artificial-intelligence/
+https://ranbeis.com/tags/chatGPT/
+https://ranbeis.com/tags/New-bing/
+https://ranbeis.com/tags/AI-write-novel/
 https://ranbeis.com/categories/%E5%BF%83%E7%90%86%E5%AD%A6/
 https://ranbeis.com/categories/%E6%96%87%E5%AD%A6/
 https://ranbeis.com/categories/%E7%A4%BE%E4%BC%9A%E5%AD%A6/
@@ -216,3 +222,4 @@ https://ranbeis.com/categories/%E9%80%BB%E8%BE%91%E5%AD%A6/
 https://ranbeis.com/categories/%E7%BB%8F%E6%B5%8E%E5%AD%A6/
 https://ranbeis.com/categories/%E7%AC%94%E8%AE%B0/
 https://ranbeis.com/categories/%E6%AD%A6%E6%B1%89%E8%82%BA%E7%82%8E/
+https://ranbeis.com/categories/chatGPT-Topic/
